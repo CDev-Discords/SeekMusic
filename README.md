@@ -20,5 +20,3 @@ Hermosas incrustaciones con barras de progreso e información de pista
 Más de 800 líneas de código bien estructurado
 
 Todas las funciones solicitadas más extras como búsqueda, control de volumen, etc.
-
-Traducción realizada con la versión gratuita del traductor DeepL.com
